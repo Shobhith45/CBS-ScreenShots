@@ -1,7 +1,7 @@
 # CBS-ScreenShots
 Into
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png=100*100)
+![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png=100x100)
 
 Login
 
