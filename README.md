@@ -1,36 +1,36 @@
 # CBS-ScreenShots
 Intro
 
-<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png" width = 500 height = 1000>
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png" width = 250 height = 500>
 
 Login
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/login.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/login.png" width = 250 height = 500>
 
 Register
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/register.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/register.png" width = 250 height = 500>
 
 Navigation
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/navigation.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/navigation.png" width = 250 height = 500>
 
 Dashboard
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/dashboard.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/dashboard.png" width = 250 height = 500>
 
 Deposit
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/deposit.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/deposit.png" width = 250 height = 500>
 
 Withdraw
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/withdraw.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/withdraw.png" width = 250 height = 500>
 
 Money Transfer
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/money_transfer.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/money_transfer.png" width = 250 height = 500>
 
 Transaction
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/transaction.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/transaction.png" width = 250 height = 500>
