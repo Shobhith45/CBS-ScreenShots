@@ -1,7 +1,7 @@
 # CBS-ScreenShots
 Intro
 
-<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png" width = 100 height = 100>
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png" width = 250 height = 250>
 
 Login
 
