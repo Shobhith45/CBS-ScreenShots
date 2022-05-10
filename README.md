@@ -1,7 +1,7 @@
 # CBS-ScreenShots
 Into
 
-![dashboard](https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png)
+<img src="https://github.com/Shobhith45/CBS-ScreenShots/blob/main/intro.png">
 
 Login
 
